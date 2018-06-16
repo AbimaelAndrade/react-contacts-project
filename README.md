@@ -1,4 +1,4 @@
-# Project React Contacts
+# React Contacts Project 
 
 ### Este projeto foi desenvolvido no curso [Udacity Nanodegree Desenvolvedor React](https://www.udacity.com/course/react-nanodegree--nd019)
 
