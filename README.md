@@ -1,12 +1,14 @@
 # Project React Contacts
 
-###Este projeto foi desenvolvido na [Udacity's React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019)
+### Este projeto foi desenvolvido no curso [Udacity Nanodegree Desenvolvedor React](https://www.udacity.com/course/react-nanodegree--nd019)
 
 Este projeto foi criado com [Create React App](https://github.com/facebookincubator/create-react-app).
 
-No no diretório do projeto, você pode iniciar com:
+No diretório do projeto, você pode iniciar com:
 
-### `npm start`
+#### `npm install`
+
+#### `npm start`
 
 Rodando em modo desenvolvimento:<br>
 Abra [http://localhost:3000](http://localhost:3000) para ver no browser.
